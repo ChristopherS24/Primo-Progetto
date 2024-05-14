@@ -1,0 +1,52 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 95%;
+}
+body>div{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 850px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    margin-left: 275px;
+    margin-top: 55px;
+}
+header, nav{
+    text-align: center;
+    color: rgb(27, 209, 27);
+}
+.logo{
+    width: 175px;
+}
+main>div{
+    margin-left: 85px;
+    line-height: 11px;
+}
+.selection{
+    background-color: rgb(27, 209, 27);
+    padding: 10px;
+    width: 625px;
+    margin-left: 85px;
+}
+.monopattino{
+    display: inline-block;
+}
+.carica1{
+    padding: 11px;
+    width: 205px;
+    background-color: rgb(254, 212, 73);
+    border-radius: 5px;
+}
+.carica2{
+    padding: 11px;
+    width: 400px;
+    background-color: rgba(55, 205, 1, 0.888);
+    border-radius: 5px;
+}
+.carica3{
+    padding: 11px;
+    width: 75px;
+    background-color: rgba(250, 35, 35, 0.759);
+    border-radius: 5px;
+}
